@@ -1,0 +1,17 @@
+SETUP
+
+1. Open your public GitHub profile repository: JayaSurya404/JayaSurya404
+2. Replace the root README.md with this package's README.md.
+3. Add .github/workflows/snake.yml.
+4. Commit/push to main.
+5. Open GitHub Actions > Generate Contribution Snake > Run workflow once.
+6. If GitHub blocks the output-branch push, go to repository Settings > Actions > General > Workflow permissions and allow Read and write permissions.
+7. Pin these repositories first:
+   classmate-ai
+   VoiceNexus-AI
+   LegalBridge
+   leadnexus
+
+Optional:
+- Add your professional email and portfolio URL later.
+- The public GitHub Readme Stats service is best-effort. If a card occasionally fails, it can recover later; self-host the stats service if you need maximum reliability.
