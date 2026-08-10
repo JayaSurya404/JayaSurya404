@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year CSE Student | Learning & Building Daily | MERN Stack & AI Enthusiast | Exploring Projects, Tools & No-Code Platforms | Testing Software, Games & Tech | Growing in both Technical & Non-Technical Ventures
+3rd Year CSE Student | Learning & Building Daily | MERN Stack & AI Enthusiast | Exploring Projects, Tools & No-Code Platforms | Testing Software, Games & Tech | Growing in both Technical & Non-Technical Ventures
 
 
 ## 🌐 Socials:
