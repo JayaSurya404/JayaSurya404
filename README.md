@@ -1,186 +1,538 @@
-<!-- GitHub Profile README for JayaSurya404 -->
+<!-- =========================================================
+     JAYA SURYA — PREMIUM GITHUB PROFILE
+     Full-Stack Developer • Software Engineering • AI Products
+========================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A5CFF&height=220&section=header&text=Jaya%20Surya&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI-Powered%20Applications&descAlignY=55&descSize=18" alt="Jaya Surya banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Building+AI-Powered+Applications;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
-</a>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=JAYA%20SURYA&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descSize=17&descAlignY=55&animation=fadeIn"
+/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jayasurya404">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Ideas+Into+Real+Software+%F0%9F%9A%80;Full-Stack+Developer+%7C+Software+Engineer;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+Python;Building+AI-Powered+Applications+%F0%9F%A4%96;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Improve"
+    alt="Typing animation"
+  />
 </a>
-<a href="https://github.com/JayaSurya404">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Opportunities-7A5CFF?style=for-the-badge" alt="Open to opportunities" />
-
-</div>
-
----
-
-## ⚡ About Me
-
-```ts
-const jaya = {
-  role: "Full-Stack Developer",
-  focus: "AI-powered applications",
-  frontend: ["Next.js", "React", "TypeScript"],
-  backend: ["Node.js", "Express", "Python", "FastAPI"],
-  databases: ["PostgreSQL", "MongoDB", "Supabase"],
-  engineering: ["REST APIs", "Authentication", "RBAC", "Testing", "Monorepos"],
-  currentlyLearning: ["DSA", "Backend Architecture", "System Design"],
-  goal: "Build useful, reliable software that solves real problems"
-};
-```
-
-I build **end-to-end software products** across frontend, backend, databases, authentication, APIs and AI integrations.
-
-I enjoy turning product ideas into working applications and improving the engineering behind them — not just building interfaces.
-
----
-
-## 🧠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,postgres,mongodb,git,github,vscode,postman,vercel&perline=7" alt="Technology stack" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+<a href="https://www.linkedin.com/in/jayasurya404">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/JayaSurya404?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Open%20To-Software%20Engineering-7C3AED?style=for-the-badge"
+  alt="Open to opportunities"
+/>
+
+<br/><br/>
+
+### `Full-Stack Developer • Software Engineering • AI-Powered Products`
 
 </div>
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 👨‍💻 About Me
+
+```typescript
+const jayaSurya = {
+
+    role: "Junior Software Engineer / Full-Stack Developer",
+
+    building: "AI-powered full-stack applications",
+
+    frontend: [
+        "Next.js",
+        "React",
+        "TypeScript"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "Python",
+        "FastAPI"
+    ],
+
+    databases: [
+        "PostgreSQL",
+        "MongoDB",
+        "Supabase"
+    ],
+
+    engineering: [
+        "REST APIs",
+        "Authentication",
+        "Authorization",
+        "RBAC",
+        "Database Design",
+        "Testing",
+        "Monorepos"
+    ],
+
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Backend Engineering",
+        "System Design"
+    ],
+
+    mindset:
+        "Understand → Design → Build → Test → Improve"
+};
+```
+
+<br/>
+
+> ### 💡 I don't just build interfaces. I enjoy building the complete product.
+
+I work across **frontend development, backend APIs, authentication, databases, testing and AI integrations**.
+
+My goal is to become a strong Software Engineer capable of understanding a real problem, designing a practical solution and turning it into reliable software.
+
+---
+
+<div align="center">
+
+## ⚡ Tech Arsenal
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,python&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-Database%20Querying-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind&theme=dark" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+<br/><br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" />
+
+<br/><br/>
+
+### 🛠️ Tools & Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,pnpm,vscode,vercel&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-2563EB?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Flagship Projects
+
+### Real projects. Real engineering. Continuous improvement.
+
+</div>
+
+<br/>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 🎓 ClassMate AI
+
+### `Privacy-First AI Study Copilot`
+
+</div>
+
+AI-powered study assistant designed around **Chrome extension architecture** and a structured TypeScript monorepo.
+
+### ⚡ Highlights
+
+- 🧩 Chrome Extension architecture
+- 🔷 TypeScript codebase
+- 📦 pnpm monorepo
+- ▲ Next.js supporting architecture
+- 🧪 Testing & type checking
+- 🔐 Privacy-conscious configuration
+
+### 🛠 Stack
+
+`TypeScript` `Next.js` `Chrome Extension` `pnpm` `Testing`
+
+<br/>
 
 <div align="center">
 
 <a href="https://github.com/JayaSurya404/classmate-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=classmate-ai&theme=tokyonight&hide_border=true&border_radius=12" alt="ClassMate AI" />
-</a>
-<a href="https://github.com/JayaSurya404/VoiceNexus-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=VoiceNexus-AI&theme=tokyonight&hide_border=true&border_radius=12" alt="VoiceNexus AI" />
-</a>
-
-<a href="https://github.com/JayaSurya404/LegalBridge">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=LegalBridge&theme=tokyonight&hide_border=true&border_radius=12" alt="LegalBridge" />
-</a>
-<a href="https://github.com/JayaSurya404/leadnexus">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=leadnexus&theme=tokyonight&hide_border=true&border_radius=12" alt="LeadNexus" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
 
-### 🔹 ClassMate AI
-> Privacy-first AI study copilot built around Chrome extension architecture, TypeScript and a pnpm monorepo.
+</td>
 
-`TypeScript` `Chrome Extension` `Next.js` `Monorepo` `Testing`
 
-### 🔹 VoiceNexus AI
-> Full-stack AI-powered communication SaaS with separated frontend/backend services and authentication.
-
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `JWT` `Turborepo`
-
-### 🔹 LegalBridge
-> Legal-assistance prototype combining full-stack engineering with structured multi-agent AI workflows.
-
-`Next.js` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `RBAC` `AI Agents`
-
-### 🔹 LeadNexus
-> Evolving SaaS project focused on authentication, secure data access and maintainable full-stack architecture.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `RLS` `Testing`
-
----
-
-## 🛠️ Engineering Focus
+<td width="50%" valign="top">
 
 <div align="center">
 
-| Full-Stack | Backend | Data | AI + Engineering |
-|:--:|:--:|:--:|:--:|
-| Next.js & React | REST APIs | PostgreSQL | LLM Integrations |
-| TypeScript | Node.js / FastAPI | MongoDB | AI Agents |
-| Responsive UI | Auth & RBAC | Supabase | RAG Concepts |
-| State Management | API Design | Database Design | Prompt Engineering |
-| Monorepos | Testing | SQL | Maintainable Architecture |
+## 🎙️ VoiceNexus AI
+
+### `AI Communication Platform`
 
 </div>
 
----
+Full-stack AI application with independently structured **frontend and backend services**.
 
-## 📊 GitHub Analytics
+### ⚡ Highlights
 
-<div align="center">
+- ▲ Next.js frontend
+- 🔷 TypeScript
+- 🟢 Node.js + Express
+- 🍃 MongoDB
+- 🔐 JWT Authentication
+- ⚡ Zustand
+- 🔄 TanStack Query
+- 📦 Turborepo
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayaSurya404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=12" alt="Jaya Surya GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSurya404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Jaya Surya top languages" />
+### 🛠 Stack
 
-</div>
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `JWT`
 
 <br/>
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JayaSurya404&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Jaya Surya GitHub activity graph" />
+<a href="https://github.com/JayaSurya404/VoiceNexus-AI">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## ⚖️ LegalBridge
+
+### `Multi-Agent Legal Platform`
+
+</div>
+
+Legal-assistance platform combining **full-stack engineering** with structured AI-agent workflows.
+
+### ⚡ Highlights
+
+- ▲ Next.js frontend
+- 🐍 Python backend
+- ⚡ FastAPI
+- 🐘 PostgreSQL
+- 🟩 Supabase
+- 🔐 Authentication & RBAC
+- 🤖 Multi-agent workflows
+- 📋 Audit events
+
+### 🛠 Stack
+
+`Next.js` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `AI Agents`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/JayaSurya404/LegalBridge">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+## 📈 LeadNexus
+
+### `Modern Full-Stack SaaS`
+
+</div>
+
+An evolving SaaS application focused on **secure access, data architecture and maintainable development**.
+
+### ⚡ Highlights
+
+- ▲ Next.js
+- 🔷 TypeScript
+- 🟩 Supabase
+- 🐘 PostgreSQL
+- 🔐 Authentication
+- 🛡️ Row Level Security
+- 🧪 Testing-oriented architecture
+
+### 🛠 Stack
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `RLS` `Testing`
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/JayaSurya404/leadnexus">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 🧩 Engineering DNA
+
+<br/>
+
+<img src="https://img.shields.io/badge/01-FULL--STACK%20DEVELOPMENT-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-BACKEND%20APIs-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-DATABASE%20DESIGN-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/04-AUTH%20%26%20RBAC-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-AI%20INTEGRATION-C026D3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/06-TESTING-2563EB?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+### 🎨 Frontend
+
+Next.js  
+React  
+TypeScript  
+Responsive UI  
+State Management
+
+</td>
+
+<td align="center">
+
+### ⚙️ Backend
+
+Node.js  
+Express.js  
+FastAPI  
+REST APIs  
+Authentication
+
+</td>
+
+<td align="center">
+
+### 🗄️ Data
+
+PostgreSQL  
+MongoDB  
+Supabase  
+Database Design  
+Row Level Security
+
+</td>
+
+<td align="center">
+
+### 🤖 AI
+
+LLM Integration  
+AI Agents  
+RAG Concepts  
+Prompt Workflows  
+AI Products
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+# 📊 GitHub Intelligence
+
+<br/>
+
+<a href="https://github.com/JayaSurya404">
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=JayaSurya404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github"
+  alt="GitHub Stats"
+/>
+</a>
+
+<a href="https://github.com/JayaSurya404">
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSurya404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8"
+  alt="Top Languages"
+/>
+</a>
+
+<br/><br/>
+
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JayaSurya404&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Jaya%20Surya's%20Contribution%20Graph"
+  alt="Contribution Graph"
+/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
+# 🐍 Contribution Journey
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake.svg">
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake.svg"
+/>
+
 </picture>
 
 </div>
 
 ---
 
-## 🎯 What I'm Focused On
+# 🎯 Currently Leveling Up
 
-- Building polished **full-stack and AI-assisted software products**
-- Strengthening **Data Structures & Algorithms**
-- Improving **backend architecture, APIs and database design**
-- Learning practical **system design and scalable application patterns**
-- Writing cleaner, testable and maintainable code
-
----
-
-## 🤝 Let's Connect
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║   🧠 Data Structures & Algorithms                         ║
+║   ⚙️ Backend Engineering                                  ║
+║   🏗️ Practical System Design                              ║
+║   🧪 Testing & Clean Architecture                         ║
+║   🚀 Production-Style Full-Stack Applications             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-### Interested in software engineering, full-stack development and AI-powered products.
+### My current mission
 
-<a href="https://www.linkedin.com/in/jayasurya404">
-  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-
-<a href="https://github.com/JayaSurya404?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
-
-<br/><br/>
-
-<sub>⚡ Building. Learning. Shipping.</sub>
+`Build better.` → `Understand deeper.` → `Ship consistently.`
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5CFF,100:00F7FF&height=120&section=footer" alt="Footer banner" />
+---
+
+<div align="center">
+
+# 🤝 Let's Build Something Meaningful
+
+<br/>
+
+I'm interested in opportunities around
+
+### `Software Engineering` • `Full-Stack Development` • `AI-Powered Applications`
+
+<br/>
+
+<a href="https://www.linkedin.com/in/jayasurya404">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/JayaSurya404?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/><br/>
+
+### ⚡ `UNDERSTAND` → `DESIGN` → `BUILD` → `TEST` → `IMPROVE`
+
+<br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=20,11,6"
+/>
+
+</div>
