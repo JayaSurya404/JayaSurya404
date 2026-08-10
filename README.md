@@ -1,27 +1,186 @@
-# 💫 About Me:
-3rd Year CSE Student | Learning & Building Daily | MERN Stack & AI Enthusiast | Exploring Projects, Tools & No-Code Platforms | Testing Software, Games & Tech | Growing in both Technical & Non-Technical Ventures
+<!-- GitHub Profile README for JayaSurya404 -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jayasurya404) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jaya__surya__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaya-surya-899430287) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/jayasurya404) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)][![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Aggravating_Guess618) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jayaSurya404) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JayaSurya404) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/jayasurya404) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chitrasivakumar280@gmail.com) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A5CFF&height=220&section=header&text=Jaya%20Surya&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI-Powered%20Applications&descAlignY=55&descSize=18" alt="Jaya Surya banner" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JayaSurya404&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JayaSurya404&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSurya404&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Building+AI-Powered+Applications;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Python;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JayaSurya404&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://www.linkedin.com/in/jayasurya404">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/JayaSurya404">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Opportunities-7A5CFF?style=for-the-badge" alt="Open to opportunities" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JayaSurya404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JayaSurya404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+
+```ts
+const jaya = {
+  role: "Full-Stack Developer",
+  focus: "AI-powered applications",
+  frontend: ["Next.js", "React", "TypeScript"],
+  backend: ["Node.js", "Express", "Python", "FastAPI"],
+  databases: ["PostgreSQL", "MongoDB", "Supabase"],
+  engineering: ["REST APIs", "Authentication", "RBAC", "Testing", "Monorepos"],
+  currentlyLearning: ["DSA", "Backend Architecture", "System Design"],
+  goal: "Build useful, reliable software that solves real problems"
+};
+```
+
+I build **end-to-end software products** across frontend, backend, databases, authentication, APIs and AI integrations.
+
+I enjoy turning product ideas into working applications and improving the engineering behind them — not just building interfaces.
+
+---
+
+## 🧠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,postgres,mongodb,git,github,vscode,postman,vercel&perline=7" alt="Technology stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+
+</div>
+
+---
+
+## 🚀 Featured Engineering Projects
+
+<div align="center">
+
+<a href="https://github.com/JayaSurya404/classmate-ai">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=classmate-ai&theme=tokyonight&hide_border=true&border_radius=12" alt="ClassMate AI" />
+</a>
+<a href="https://github.com/JayaSurya404/VoiceNexus-AI">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=VoiceNexus-AI&theme=tokyonight&hide_border=true&border_radius=12" alt="VoiceNexus AI" />
+</a>
+
+<a href="https://github.com/JayaSurya404/LegalBridge">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=LegalBridge&theme=tokyonight&hide_border=true&border_radius=12" alt="LegalBridge" />
+</a>
+<a href="https://github.com/JayaSurya404/leadnexus">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayaSurya404&repo=leadnexus&theme=tokyonight&hide_border=true&border_radius=12" alt="LeadNexus" />
+</a>
+
+</div>
+
+### 🔹 ClassMate AI
+> Privacy-first AI study copilot built around Chrome extension architecture, TypeScript and a pnpm monorepo.
+
+`TypeScript` `Chrome Extension` `Next.js` `Monorepo` `Testing`
+
+### 🔹 VoiceNexus AI
+> Full-stack AI-powered communication SaaS with separated frontend/backend services and authentication.
+
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `JWT` `Turborepo`
+
+### 🔹 LegalBridge
+> Legal-assistance prototype combining full-stack engineering with structured multi-agent AI workflows.
+
+`Next.js` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `RBAC` `AI Agents`
+
+### 🔹 LeadNexus
+> Evolving SaaS project focused on authentication, secure data access and maintainable full-stack architecture.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `RLS` `Testing`
+
+---
+
+## 🛠️ Engineering Focus
+
+<div align="center">
+
+| Full-Stack | Backend | Data | AI + Engineering |
+|:--:|:--:|:--:|:--:|
+| Next.js & React | REST APIs | PostgreSQL | LLM Integrations |
+| TypeScript | Node.js / FastAPI | MongoDB | AI Agents |
+| Responsive UI | Auth & RBAC | Supabase | RAG Concepts |
+| State Management | API Design | Database Design | Prompt Engineering |
+| Monorepos | Testing | SQL | Maintainable Architecture |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayaSurya404&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&border_radius=12" alt="Jaya Surya GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSurya404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Jaya Surya top languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JayaSurya404&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Jaya Surya GitHub activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/JayaSurya404/JayaSurya404/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 What I'm Focused On
+
+- Building polished **full-stack and AI-assisted software products**
+- Strengthening **Data Structures & Algorithms**
+- Improving **backend architecture, APIs and database design**
+- Learning practical **system design and scalable application patterns**
+- Writing cleaner, testable and maintainable code
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Interested in software engineering, full-stack development and AI-powered products.
+
+<a href="https://www.linkedin.com/in/jayasurya404">
+  <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
+<a href="https://github.com/JayaSurya404?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<br/><br/>
+
+<sub>⚡ Building. Learning. Shipping.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5CFF,100:00F7FF&height=120&section=footer" alt="Footer banner" />
